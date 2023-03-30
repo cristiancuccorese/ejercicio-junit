@@ -16,7 +16,7 @@ public class CuentaBancaria {
     public double getSaldo() {
         return saldo;
     }
-    public void setTitular(Usuario titular) {
+    public void setUsuario(Usuario titular) {
         this.titular = titular;
     }
 
